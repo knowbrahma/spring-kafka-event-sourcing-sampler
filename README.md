@@ -195,4 +195,3 @@ Looking again at the details of the item, we see that its `done` attribute is no
 
 ## License
 
-This work is released under the terms of the MIT license.
